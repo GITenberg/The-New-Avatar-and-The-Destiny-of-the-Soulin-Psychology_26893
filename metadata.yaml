@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32310'
     url: http://www.gutenberg.org/2009/agents/32310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26893#The-New-Avatar-and-The-Destiny-of-the-Soulin-Psychology
 gutenberg_issued: '2008-10-12'
 gutenberg_type: Text
 identifiers:
