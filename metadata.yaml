@@ -1,0 +1,29 @@
+_repo: The-New-Avatar-and-The-Destiny-of-the-Soulin-Psychology_26893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buck, J. D. (Jirah Dewey)
+    alias: Buck, Jirah Dewey
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '32310'
+    url: http://www.gutenberg.org/2009/agents/32310
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soul'
+- !lcc 'BF'
+- !lcsh 'Psychology and religion'
+title: "The New Avatar and The Destiny of the Soul\r\nThe Findings of Natural Science\
+  \ Reduced to Practical Studies in Psychology"
+url: http://www.gutenberg.org/ebooks/26893
